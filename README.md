@@ -8,11 +8,11 @@
 
 
 ## Group Members:
-Alcantara, Charles Vincent H.
-Alcantara, Jensen Dayle C.
-Cueto, Mark Andrey R.
-Evengelista, Bryan D.
-Pineda, Rayniel Lester M.
+- Alcantara, Charles Vincent H.
+- Alcantara, Jensen Dayle C.
+- Cueto, Mark Andrey R.
+- Evengelista, Bryan D.
+- Pineda, Rayniel Lester M.
 
 
 ## Project Overview
